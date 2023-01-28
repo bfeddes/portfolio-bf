@@ -8,6 +8,8 @@
 }
 .assignments {text-align: center; background-color: azure; }
 .quizzes {
+    display:inline;
+    float:left;
     background-color: beige;   
     width: 300px;
     border: 2px solid black;
@@ -16,49 +18,59 @@
     margin-left: 0px; 
 }
 .labs {
+    display:inline;
+    float:left;
     background-color: beige;   
     width: 300px;
     border: 2px solid black;
+    margin-top: -22px;
+    margin-left: -2px;
     padding: 10px;
-    margin-left: 322px; 
-    margin-top:-268px;
 }
 .reflections {
+    display:inline;
+    float:left;
     background-color: beige;   
     width: 300px;
     border: 2px solid black;
+    margin-top: -22px;
+    margin-left: -2px;
     padding-bottom: 20px;
-    margin-left: 644px; 
-    margin-top:-268px;
 }
 .demos {
+    display:inline;
+    float:left;
     background-color: beige;   
     width: 300px;
     border: 2px solid black;
+    margin-top: -22px;
+    margin-left: -2px;
     padding-bottom: 167px;
-    margin-left: 946px; 
-    margin-top:-268px;
 }
 .discussions {
+    display:inline;
+    float:left;
     background-color: beige;   
     width: 300px;
     border: 2px solid black;
+    margin-top: -22px;
+    margin-left: -2px;
     padding-bottom: 41px;
-    margin-left: 1248px; 
-    margin-top:-268px;
 }
 .finalprojects {
+    display:inline;
+    float:left;
     background-color: beige;   
     width: 300px;
     border: 2px solid black;
     padding-bottom: 167px;
+    margin-top: -22px;
+    margin-left: -2px;
     padding-right: 50px;
-    margin-left: 1550px; 
-    margin-top:-268px;
 }
 .riddle{
     border: 2px solid black;
-    margin-top: -2px;
+    margin-top: 90px;
     background-color: blanchedalmond;
     text-align:center;
 }
@@ -67,15 +79,15 @@ a {
     text-decoration: none;
 }
 .quizlist {margin-left: 50px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.quiz {text-align: center; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
-.lab {text-align: center; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.quiz {text-align: center; margin-left: 50px; font-size: 50px; font-weight: bold;}
+.lab {text-align: center; margin-left: 90px; font-size: 50px; font-weight: bold;}
 .lablist { margin-left: 75px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
 .reflectionlist { margin-left: 20%; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.reflection {text-indent: 12%; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.reflection {text-indent: 12%; margin-left: 25px; font-size: 50px; font-weight: bold;}
 .demolist { margin-left: 70px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.demo {text-align: center; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.demo {text-align: center; margin-left: 80px; font-size: 50px; font-weight: bold;}
 .discussionlist { margin-left: 50px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.discussion {text-align: center; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.discussion {text-align: center; margin-left: 25px; font-size: 50px; font-weight: bold;}
 .finalprojectlist { margin-left: 50px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.finalproject {margin-left: 21px; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.finalproject {margin-left: 21px; font-size: 50px; font-weight: bold;}
 .solution {text-align: center;}
