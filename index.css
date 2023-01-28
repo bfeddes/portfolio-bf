@@ -1,0 +1,72 @@
+.intro {text-align: center; background-color:azure;}
+.assignments {text-align: center; background-color: azure; }
+.quizzes {
+    background-color: beige;   
+    width: 300px;
+    border: 2px solid black;
+    padding: 10px;
+    margin-top: -22px;
+    margin-left: 0px; 
+}
+.labs {
+    background-color: beige;   
+    width: 300px;
+    border: 2px solid black;
+    padding: 10px;
+    margin-left: 322px; 
+    margin-top:-268px;
+}
+.reflections {
+    background-color: beige;   
+    width: 300px;
+    border: 2px solid black;
+    padding-bottom: 20px;
+    margin-left: 644px; 
+    margin-top:-268px;
+}
+.demos {
+    background-color: beige;   
+    width: 300px;
+    border: 2px solid black;
+    padding-bottom: 167px;
+    margin-left: 946px; 
+    margin-top:-268px;
+}
+.discussions {
+    background-color: beige;   
+    width: 300px;
+    border: 2px solid black;
+    padding-bottom: 41px;
+    margin-left: 1248px; 
+    margin-top:-268px;
+}
+.finalprojects {
+    background-color: beige;   
+    width: 300px;
+    border: 2px solid black;
+    padding-bottom: 167px;
+    padding-right: 50px;
+    margin-left: 1550px; 
+    margin-top:-268px;
+}
+.riddle{
+    background-color: blanchedalmond;
+    text-align:center;
+}
+a {
+    color:black;
+    text-decoration: none;
+}
+.quizlist {margin-left: 50px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
+.quiz {text-align: center; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.lab {text-align: center; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.lablist { margin-left: 75px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
+.reflectionlist { margin-left: 20%; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
+.reflection {text-indent: 12%; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.demolist { margin-left: 70px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
+.demo {text-align: center; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.discussionlist { margin-left: 50px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
+.discussion {text-align: center; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.finalprojectlist { margin-left: 50px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
+.finalproject {margin-left: 21px; margin-bottom:0; margin-top:0; font-size: 50px; font-weight: bold;}
+.solution {text-align: center;}
