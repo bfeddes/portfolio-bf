@@ -68,7 +68,7 @@
 }
 .riddle{
     border: 2px solid black;
-    margin-top: 600px;
+    margin-top: -2px;
     background-color: blanchedalmond;
     text-align:center;
 }
