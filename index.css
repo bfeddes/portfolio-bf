@@ -1,4 +1,11 @@
-.intro {text-align: center; background-color:azure;}
+.intro {text-align: center; 
+    background-color:azure;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-bottom: 1px solid black;
+    margin-top:-5px
+}
 .assignments {text-align: center; background-color: azure; }
 .quizzes {
     background-color: beige;   
@@ -50,6 +57,8 @@
     margin-top:-268px;
 }
 .riddle{
+    border: 2px solid black;
+    margin-top: -2px;
     background-color: blanchedalmond;
     text-align:center;
 }
