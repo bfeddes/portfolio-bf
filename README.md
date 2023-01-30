@@ -1,1 +1,3 @@
-# Hello World Azure Static Website Template
+# Brian Feddes
+# Software Engineering 
+# Portfolio Assignment
