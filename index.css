@@ -1,94 +1,19 @@
-.intro {
-    text-align: center; 
-    background-color:azure;
-    border-top: 2px solid black;
-    border-left: 2px solid black;
-    border-right: 2px solid black;
-    border-bottom: 1px solid black;
-    margin-top:-5px;
-}
-.assignments {text-align: center; background-color: azure; }
-.quizzes {
-    display:inline;
-    float:left;
-    background-color: beige;   
-    width: 300px;
-    border: 2px solid black;
-    padding: 10px;
-    margin-top: -22px;
-}
-.labs {
-    display:inline;
-    float:left;
-    background-color: beige;   
-    width: 300px;
-    border: 2px solid black;
-    margin-top: -22px;
-    margin-left: -2px;
-    padding: 10px;
-}
-.reflections {
-    display:inline;
-    float:left;
-    background-color: beige;   
-    width: 300px;
-    border: 2px solid black;
-    margin-top: -22px;
-    margin-left: -2px;
-    padding-bottom: 20px;
-    padding-right: 50px;
-}
-.demos {
-    display:inline;
-    float:left;
-    background-color: beige;   
-    width: 300px;
-    border: 2px solid black;
-    margin-top: -250px;
-    margin-left: 322px;
-    padding-bottom: 167px;
-    padding-right: 20px;
-}
-.discussions {
-    background-color: beige;   
-    width: 300px;
-    border: 2px solid black;
-    margin-top: -22px;
-    padding-bottom: 41px;
-    padding-right: 20px;
-}
-.finalprojects {
-    background-color: beige;   
-    width: 300px;
-    border: 2px solid black;
-    padding-bottom: 167px;
-    margin-top: -250px;
-    margin-left: 644px;
-    padding-right: 50px;
+body {text-align: center;}
+h1 {border: 2px solid whitesmoke;
+    border-left: 0;
+    border-right: 0;
 }
 .riddle{
-    border: 2px solid black;
-    margin-top: -2px;
-    background-color: blanchedalmond;
+    border: 2px solid whitesmoke;
+    margin-top: 5%;
     text-align:center;
+    border-left: 0;
+    border-right: 0;
 }
-a {
-    color:black;
-    text-decoration: none;
-}
-body {
-    width: 998px;
-}
-.quizlist {margin-left: 50px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.quiz {text-align: center; margin-left: 50px; font-size: 50px; font-weight: bold;}
-.lab {text-align: center; margin-left: 90px; font-size: 50px; font-weight: bold;}
-.lablist { margin-left: 75px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.reflectionlist { margin-left: 20%; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.reflection {text-indent: 12%; margin-left: 25px; font-size: 50px; font-weight: bold;}
-.demolist { margin-left: 70px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.demo {text-align: center; margin-left: 80px; font-size: 50px; font-weight: bold;}
-.discussionlist { margin-left: 50px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.discussion {text-align: center; margin-left: 25px; font-size: 50px; font-weight: bold;}
-.finalprojectlist { margin-left: 50px; margin-top: 0; margin-bottom: 0; list-style: square; font-size: 18px;}
-.finalproject {margin-left: 21px; font-size: 50px; font-weight: bold;}
-.solution {text-align: center;}
+.assignments {width: 50%;}
+table {margin-left: auto; margin-right: auto; border: 2px solid whitesmoke; margin-top: 5%;}
+.th {text-align: center;}
+a:link { color: whitesmoke; text-decoration: none; }
+a:visited { color: whitesmoke; text-decoration: none; }
+a:hover { color: whitesmoke; text-decoration: none; }
+a:active { color: whitesmoke; text-decoration: none; }
